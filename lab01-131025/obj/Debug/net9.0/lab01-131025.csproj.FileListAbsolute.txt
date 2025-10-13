@@ -1,0 +1,15 @@
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.AssemblyInfoInputs.cache
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.AssemblyInfo.cs
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.csproj.CoreCompileInputs.cache
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.sourcelink.json
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/bin/Debug/net9.0/lab01-131025
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/bin/Debug/net9.0/lab01-131025.deps.json
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/bin/Debug/net9.0/lab01-131025.runtimeconfig.json
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/bin/Debug/net9.0/lab01-131025.dll
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/bin/Debug/net9.0/lab01-131025.pdb
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.dll
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/refint/lab01-131025.dll
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.pdb
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/lab01-131025.genruntimeconfig.cache
+/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/Debug/net9.0/ref/lab01-131025.dll
