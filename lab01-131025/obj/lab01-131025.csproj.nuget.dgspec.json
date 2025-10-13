@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/lab01-131025.csproj": {}
+    "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab01-131025/lab01-131025.csproj": {}
   },
   "projects": {
-    "/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/lab01-131025.csproj": {
+    "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab01-131025/lab01-131025.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/lab01-131025.csproj",
+        "projectUniqueName": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab01-131025/lab01-131025.csproj",
         "projectName": "lab01-131025",
-        "projectPath": "/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/lab01-131025.csproj",
+        "projectPath": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab01-131025/lab01-131025.csproj",
         "packagesPath": "/Users/karo/.nuget/packages/",
-        "outputPath": "/Users/karo/Desktop/code/csharp-dotnet/lab01-131025/obj/",
+        "outputPath": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab01-131025/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karo/.nuget/NuGet/NuGet.Config"
