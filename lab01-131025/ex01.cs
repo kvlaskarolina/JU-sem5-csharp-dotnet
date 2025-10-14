@@ -32,7 +32,18 @@ class Game
         player.chooseType();
         Console.Clear();
         Console.WriteLine($"{player.type} {player.name} wyrusza na przygode:DD");
-        chooseLocation();
+        while (true)
+        {
+            chooseLocation();
+            NPC npc = new NPC();
+            Random random = new Random();
+            NPC.NPCType randomNPCType = (NPC.NPCType)random.Next(Enum.GetValues(typeof(NPC.NPCType)).Length);
+            npc.setNPCType(randomNPCType);
+            player.meetNPC(npc);
+            Console.WriteLine("Naciśnij dowolny klawisz, aby kontynuować...");
+            Console.ReadKey();
+            Console.Clear();
+        }
     }
     public void chooseLocation()
     {
@@ -136,6 +147,19 @@ class Player
                 chooseType();
                 break;
         }
+    }
+    public void meetNPC(NPC npc)
+    {
+        Console.WriteLine($"Spotkałeś {npc.npcType}. Przywitaj się z nim!");
+    }
+}
+class NPC : Player
+{
+    public enum NPCType { Kupiec, Żołnierz, Wieśniak };
+    public NPCType npcType { get; set; }
+    public void setNPCType(NPCType type)
+    {
+        npcType = type;
     }
 }
 class Program
