@@ -1,5 +1,6 @@
 using System.Security.Cryptography.X509Certificates;
-
+// link do repo na github - pewnie bedzie lepiej patrzeć na to tam niż tutaj :D -
+//  https://github.com/kvlaskarolina/csharp-dotnet
 class Game
 {
     public Location location { get; set; }
@@ -44,6 +45,10 @@ class Game
             NPC.NPCType randomNPCType = (NPC.NPCType)random.Next(Enum.GetValues(typeof(NPC.NPCType)).Length);
             npc1.setNPCType(randomNPCType);
             randomNPCType = (NPC.NPCType)random.Next(Enum.GetValues(typeof(NPC.NPCType)).Length);
+            while (randomNPCType == npc1.npcType)
+            {
+                randomNPCType = (NPC.NPCType)random.Next(Enum.GetValues(typeof(NPC.NPCType)).Length);
+            }
             npc2.setNPCType(randomNPCType);
             player.meetNPC(npc1, npc2, location);
             Console.ReadKey();
