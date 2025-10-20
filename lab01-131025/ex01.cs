@@ -1,4 +1,3 @@
-using System.Security.Cryptography.X509Certificates;
 // link do repo na github - pewnie bedzie lepiej patrzeć na to tam niż tutaj :D -
 //  https://github.com/kvlaskarolina/csharp-dotnet
 class Game
@@ -189,7 +188,7 @@ class Player
 
     }
 }
-class NPC : Player
+class NPC
 {
     public enum NPCType { Kupiec, Żołnierz, Wieśniak, Szaman, Łowca };
     public NPCType npcType { get; set; }
