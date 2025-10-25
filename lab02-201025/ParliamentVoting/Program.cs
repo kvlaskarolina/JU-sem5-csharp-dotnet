@@ -83,7 +83,6 @@ namespace VotingSystem
         protected virtual void OnEndVoting()
         {
             Console.WriteLine("\nGłosowanie zakończone!");
-            // Pass the list of parliamentarians to the EndVoting event
             EndVoting?.Invoke(this, parliamentarians);
         }
 
