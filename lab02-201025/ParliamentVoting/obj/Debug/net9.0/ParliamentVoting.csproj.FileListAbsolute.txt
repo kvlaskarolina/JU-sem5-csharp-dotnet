@@ -1,0 +1,15 @@
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/bin/Debug/net9.0/ParliamentVoting
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/bin/Debug/net9.0/ParliamentVoting.deps.json
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/bin/Debug/net9.0/ParliamentVoting.runtimeconfig.json
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/bin/Debug/net9.0/ParliamentVoting.dll
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/bin/Debug/net9.0/ParliamentVoting.pdb
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.AssemblyInfoInputs.cache
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.AssemblyInfo.cs
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.csproj.CoreCompileInputs.cache
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.sourcelink.json
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.dll
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/refint/ParliamentVoting.dll
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.pdb
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ParliamentVoting.genruntimeconfig.cache
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab02-201025/ParliamentVoting/obj/Debug/net9.0/ref/ParliamentVoting.dll
