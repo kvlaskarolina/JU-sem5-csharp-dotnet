@@ -38,8 +38,11 @@ class Program
         var jan = new Person("Jan", "Nowak");
         jan.Display();
         jan.Rename("Jan", "renamed");
+        // bez uzycia ref, zmiany sa widoczne, poniewaz modyfikujemy wlasciwosci istniejacego obiektu
         jan.Display();
         RenameNew("Jan", "renamedNew", ref jan);
+        // musielismy uzyc ref, aby przypisanie nowego obiektu, do juz istinejacego bylo mozliwe
+        // i widoczne zewnatrz metody
         jan.Display();
         SetNull(ref jan);
         if (jan == null)
