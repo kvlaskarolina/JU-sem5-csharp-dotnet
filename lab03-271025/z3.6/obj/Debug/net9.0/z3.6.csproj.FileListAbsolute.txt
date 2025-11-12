@@ -1,0 +1,15 @@
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/bin/Debug/net9.0/z3.6
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/bin/Debug/net9.0/z3.6.deps.json
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/bin/Debug/net9.0/z3.6.runtimeconfig.json
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/bin/Debug/net9.0/z3.6.dll
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/bin/Debug/net9.0/z3.6.pdb
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.AssemblyInfoInputs.cache
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.AssemblyInfo.cs
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.csproj.CoreCompileInputs.cache
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.sourcelink.json
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.dll
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/refint/z3.6.dll
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.pdb
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/z3.6.genruntimeconfig.cache
+/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.6/obj/Debug/net9.0/ref/z3.6.dll
