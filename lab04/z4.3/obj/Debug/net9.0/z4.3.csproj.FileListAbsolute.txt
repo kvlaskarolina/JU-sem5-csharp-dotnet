@@ -1,0 +1,15 @@
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.AssemblyInfoInputs.cache
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.AssemblyInfo.cs
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.csproj.CoreCompileInputs.cache
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.sourcelink.json
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/bin/Debug/net9.0/z4.3
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/bin/Debug/net9.0/z4.3.deps.json
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/bin/Debug/net9.0/z4.3.runtimeconfig.json
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/bin/Debug/net9.0/z4.3.dll
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/bin/Debug/net9.0/z4.3.pdb
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.dll
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/refint/z4.3.dll
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.pdb
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/z4.3.genruntimeconfig.cache
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab04/z4.3/obj/Debug/net9.0/ref/z4.3.dll
