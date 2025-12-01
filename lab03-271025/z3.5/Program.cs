@@ -77,19 +77,6 @@ public class Matrix<T> : IComparable<Matrix<T>>, IFormattable where T : struct, 
         return result;
     }
 
-    public string ToString(string? format, IFormatProvider? formatProvider)
-    {
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < this.Rows; i++)
-        {
-            for (int j = 0; j < this.Cols; j++)
-            {
-                sb.AppendFormat(formatProvider, $"{{0:{format}}} ", this.GetElement(i, j));
-            }
-            sb.AppendLine();
-        }
-        return sb.ToString();
-    }
 
     public override string ToString()
     {
