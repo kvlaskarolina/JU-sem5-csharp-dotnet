@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.1/z3.1.csproj": {}
+    "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.1/z3.1.csproj": {}
   },
   "projects": {
-    "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.1/z3.1.csproj": {
+    "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.1/z3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.1/z3.1.csproj",
+        "projectUniqueName": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.1/z3.1.csproj",
         "projectName": "z3.1",
-        "projectPath": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.1/z3.1.csproj",
+        "projectPath": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.1/z3.1.csproj",
         "packagesPath": "/Users/karo/.nuget/packages/",
-        "outputPath": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.1/obj/",
+        "outputPath": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karo/.nuget/NuGet/NuGet.Config"

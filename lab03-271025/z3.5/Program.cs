@@ -80,7 +80,7 @@ public class Matrix<T> : IComparable<Matrix<T>>, IFormattable where T : struct, 
 
     public override string ToString()
     {
-        return this.ToString("G", CultureInfo.CurrentCulture);
+        return this.ToString("G", CultureInfo.CurrentCulture); 
     }
 
     public int CompareTo(Matrix<T>? other)

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.4/z3.4.csproj",
+      "projectUniqueName": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.4/z3.4.csproj",
       "projectName": "z3.4",
-      "projectPath": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.4/z3.4.csproj",
+      "projectPath": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.4/z3.4.csproj",
       "packagesPath": "/Users/karo/.nuget/packages/",
-      "outputPath": "/Users/karo/Desktop/code/studia-sem5/csharp-dotnet/lab03-271025/z3.4/obj/",
+      "outputPath": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karo/.nuget/NuGet/NuGet.Config"
