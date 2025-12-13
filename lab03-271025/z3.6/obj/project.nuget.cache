@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+UpqK1Lrzog=",
+  "dgSpecHash": "o56xXZ3Pzd0=",
   "success": true,
   "projectFilePath": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab03-271025/z3.6/z3.6.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/karo/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/karo/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/karo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.11/microsoft.netcore.app.host.osx-arm64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
