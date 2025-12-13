@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KlXDUpFrVGE=",
+  "success": true,
+  "projectFilePath": "/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/projektBlazor.csproj",
+  "expectedPackageFiles": [
+    "/Users/karo/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.1/microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

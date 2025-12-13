@@ -9,7 +9,6 @@ public class Program
     {
         Type customerType = typeof(Customer);
 
-        Console.WriteLine("=== ANALIZA KLASY CUSTOMER ===\n");
 
         Console.WriteLine("Fields:");
 
