@@ -1,0 +1,84 @@
+@page "/pages/fetchdata"
+@rendermode InteractiveServer
+@inject NavigationManager NavManager
+<PageTitle>my pages</PageTitle>
+
+<h1>my pages</h1>
+
+<div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Enter page name (e.g., Home, About, Contact)"
+        @bind="pageInput" />
+
+    <div class="input-group-append">
+        <button class="btn btn-primary" @onclick="AddPage">Add page</button>
+    </div>
+</div>
+<p role="status">Pages count: @pagesCounter</p>
+<ul>
+    @if (pages.Count == 0)
+    {
+        <p>No pages added yet.</p>
+    }
+    @foreach (var p in pages)
+    {
+        <button class="btn btn-primary" @onclick="() => NavigateToPage(p.OriginalName)">
+            @p.SanitizedName
+        </button>
+
+
+    }
+</ul>
+
+@code {
+    private int pagesCounter = 0;
+
+    private string pageInput = "";
+
+    private record PageInfo(string SanitizedName, string OriginalName);
+    List<PageInfo> pages = new List<PageInfo>();
+
+
+
+    private void AddPage()
+    {
+        if (!string.IsNullOrWhiteSpace(pageInput))
+        {
+            IncrementPagesCounter();
+            AddPageInfo(pageInput);
+
+            pageInput = "";
+        }
+    }
+    private void AddPageInfo(string name)
+    {
+        if (!string.IsNullOrWhiteSpace(name))
+        {
+            pages.Add(new PageInfo(SanitizePageName(name), name));
+        }
+    }
+    private string SanitizePageName(string name)
+    {
+        string sanitized = name;
+        sanitized = sanitized.Replace("https://", "");
+        sanitized = sanitized.Replace("http://", "");
+        sanitized = sanitized.Replace("www.", "");
+        int dotIndex = sanitized.IndexOf('.');
+        if (dotIndex != -1)
+        {
+            sanitized = sanitized.Substring(0, dotIndex);
+        }
+        return sanitized;
+    }
+
+    private void IncrementPagesCounter()
+    {
+        pagesCounter++;
+    }
+    private void NavigateToPage(string url)
+    {
+        if (!string.IsNullOrWhiteSpace(url))
+        {
+            NavManager.NavigateTo(url);
+        }
+    }
+}

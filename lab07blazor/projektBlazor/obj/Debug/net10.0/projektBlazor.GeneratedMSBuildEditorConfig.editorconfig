@@ -42,8 +42,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
+[/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/Components/Pages/PagesFetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QYWdlc0ZldGNoRGF0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/Components/Routes.razor]

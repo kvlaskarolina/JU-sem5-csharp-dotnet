@@ -24,7 +24,6 @@
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/scopedcss/bundle/projektBlazor.styles.css
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/scopedcss/projectbundle/projektBlazor.bundle.scp.css
-/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/compressed/vlxzyj3cyz-{0}-w7mf952350-w7mf952350.gz
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/compressed/d6tw6ex343-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/compressed/bf0yl0kq3e-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/compressed/55y4xg7it6-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -84,3 +83,4 @@
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/projektBlazor.pdb
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/projektBlazor.genruntimeconfig.cache
 /Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/ref/projektBlazor.dll
+/Users/karo/Desktop/code/studia-sem5/JU-sem5-csharp-dotnet/lab07blazor/projektBlazor/obj/Debug/net10.0/compressed/vlxzyj3cyz-{0}-f3n9163h2u-f3n9163h2u.gz
