@@ -1,6 +1,9 @@
 @page "/pages/fetchdata"
 @rendermode InteractiveServer
 @inject NavigationManager NavManager
+
+@using blazor01
+
 <PageTitle>my pages</PageTitle>
 
 <h1>my pages</h1>
@@ -21,8 +24,9 @@
     }
     @foreach (var p in pages)
     {
-        <button class="btn btn-primary" @onclick="() => NavigateToPage(p.OriginalName)">
-            @p.SanitizedName
+
+        <button class="btn btn-primary" @onclick="() => NavigateToPage(p.Url)">
+            @p.Name
         </button>
 
 
@@ -31,31 +35,21 @@
 
 @code {
     private int pagesCounter = 0;
-
     private string pageInput = "";
 
-    private record PageInfo(string SanitizedName, string OriginalName);
-    List<PageInfo> pages = new List<PageInfo>();
-
-
+    List<Page> pages = new List<Page>();
 
     private void AddPage()
     {
         if (!string.IsNullOrWhiteSpace(pageInput))
         {
             IncrementPagesCounter();
-            AddPageInfo(pageInput);
+            pages.Add(new Page(url: pageInput, name: SanitizePageName(pageInput)));
 
             pageInput = "";
         }
     }
-    private void AddPageInfo(string name)
-    {
-        if (!string.IsNullOrWhiteSpace(name))
-        {
-            pages.Add(new PageInfo(SanitizePageName(name), name));
-        }
-    }
+
     private string SanitizePageName(string name)
     {
         string sanitized = name;
